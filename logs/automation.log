@@ -311,3 +311,14 @@
 00:09:44.170 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
 00:09:46.544 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
 00:09:46.804 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+00:45:24.482 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+00:45:25.060 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+00:45:39.225 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+00:45:39.240 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+00:45:49.110 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+00:45:49.211 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+00:45:49.215 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+00:46:32.791 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+00:47:05.610 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+00:47:11.486 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+00:47:11.541 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****

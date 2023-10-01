@@ -1,0 +1,291 @@
+12:08:44.995 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+12:08:45.884 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+12:08:48.720 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+12:08:48.953 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+12:08:59.261 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+12:08:59.321 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+12:08:59.325 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+12:10:45.990 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+12:10:46.053 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+12:10:46.053 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+12:10:46.063 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6a933be2
+12:10:46.094 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+12:10:46.094 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+12:10:46.100 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+12:10:46.101 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+12:10:46.102 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+12:10:46.104 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+12:10:46.105 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+12:10:46.106 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+12:10:46.107 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @66480dd7
+12:10:46.109 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+12:10:46.109 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+12:10:46.112 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 2120220672 bytes (maybe)
+12:10:46.112 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\Natse\AppData\Local\Temp (java.io.tmpdir)
+12:10:46.113 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+12:10:46.114 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+12:10:46.115 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+12:10:46.115 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+12:10:46.118 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+12:10:46.118 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+12:10:46.133 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+12:10:46.172 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+12:10:46.172 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+12:10:46.533 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+12:10:46.533 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+12:10:46.551 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+12:10:46.572 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+12:10:46.588 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+12:10:46.588 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+12:10:46.665 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+12:10:46.666 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+12:10:46.667 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+12:10:46.685 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+12:10:46.685 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+12:10:46.685 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+12:10:47.097 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 20100 (auto-detected)
+12:10:47.100 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+12:10:47.100 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+12:10:47.114 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+12:10:47.115 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+12:10:47.154 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 78:0c:b8:ff:fe:f9:98:9a (auto-detected)
+12:10:47.216 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+12:10:47.216 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+12:10:47.216 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@12aa12ae
+12:10:47.251 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+12:10:47.251 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+12:10:47.251 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+12:10:47.251 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+12:10:47.252 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+12:10:51.038 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+12:10:51.238 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xb3ee0f985133930e
+12:11:04.751 [main] DEBUG tsetCases.AccountRegistrationTest - application logs...
+12:11:04.752 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+12:11:05.057 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+12:11:06.750 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+12:11:06.766 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+12:11:17.298 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+12:11:17.420 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+12:11:17.425 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+14:34:56.442 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+14:34:57.338 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+14:35:00.950 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+14:35:01.415 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+14:35:11.208 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+14:35:11.297 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+14:35:11.323 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+15:00:04.061 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+15:00:04.925 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+15:00:07.947 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+15:00:08.881 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+15:00:16.778 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+15:00:16.860 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+15:00:16.863 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+15:10:03.980 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+15:10:08.380 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+15:10:23.557 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - Click on register link
+15:10:23.932 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+15:10:42.265 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+15:10:43.166 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - Click on continue
+15:10:43.230 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+15:10:43.235 [TestNG-tests-1] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+15:10:46.312 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+15:10:52.952 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - Click on register link
+15:10:52.953 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+15:11:29.155 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - Click on continue
+15:11:29.888 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+15:11:29.889 [TestNG-tests-2] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+15:31:09.908 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+15:31:10.654 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+15:31:13.081 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+15:31:13.583 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+15:31:21.064 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+15:31:21.124 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+15:31:21.127 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+16:20:12.243 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+16:20:13.484 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+16:20:17.270 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+16:20:17.440 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+16:20:25.487 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+16:20:25.544 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+16:20:25.548 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+16:22:11.535 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+16:22:12.217 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+16:22:17.398 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+16:22:17.911 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+16:22:25.203 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+16:22:40.349 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+18:56:30.822 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+18:56:35.768 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+18:56:38.447 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+18:59:43.135 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+18:59:51.155 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+18:59:56.460 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+18:59:56.592 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+14:56:45.977 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+14:56:50.338 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+14:56:52.157 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+14:57:07.210 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+14:57:07.268 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+14:57:07.924 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+14:57:09.219 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+14:57:24.256 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+14:57:24.260 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+14:57:24.776 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+14:57:26.005 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+14:57:41.040 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+14:57:41.046 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+14:57:42.924 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+14:57:44.403 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+14:57:59.436 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+14:57:59.440 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+14:58:00.385 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+14:58:01.697 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+14:58:16.746 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+15:25:30.794 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+15:25:33.042 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+15:25:35.076 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+15:25:50.114 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+15:25:50.282 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+15:25:51.387 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+15:25:52.846 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+15:26:07.918 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+15:26:07.927 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+15:26:09.781 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+15:26:12.887 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+15:26:27.953 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+15:26:27.961 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+15:26:30.053 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+15:26:30.888 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+15:26:45.948 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+15:26:45.954 [main] INFO  tsetCases.LoginDDTest - ****  Starting TC_test_LoginDDTest  **** 
+15:26:46.750 [main] INFO  tsetCases.LoginDDTest - ****  Providing login details 
+15:26:47.940 [main] INFO  tsetCases.LoginDDTest - ****  Clicking on login button
+15:27:02.988 [main] INFO  tsetCases.LoginDDTest - **** Finished LoginDDTest ****
+18:41:28.246 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+18:41:28.897 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+18:41:31.504 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+18:41:31.546 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+18:41:41.109 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+18:41:41.360 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+18:41:41.365 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+18:42:02.144 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+18:42:06.979 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+18:42:20.540 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+18:42:20.674 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+18:44:35.869 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+18:44:41.550 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+18:44:44.493 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+18:44:44.623 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+18:58:05.431 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+18:58:05.753 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+18:58:08.380 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+18:58:08.463 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+18:58:18.200 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+18:58:18.265 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+18:58:35.626 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+18:58:38.371 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+18:58:40.766 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+18:58:40.841 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+19:02:49.828 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+19:02:50.677 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+19:02:52.590 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+19:02:52.762 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+19:02:59.656 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+19:02:59.714 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+19:02:59.782 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+19:07:19.305 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+19:07:19.537 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+19:07:21.383 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+19:07:21.389 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+19:07:28.348 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+19:07:28.403 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+19:07:28.416 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+19:07:43.538 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+19:07:47.635 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+19:07:49.599 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+19:09:27.698 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+19:09:34.372 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+19:09:36.407 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+19:09:36.542 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+21:42:05.850 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+21:42:06.325 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+21:42:08.897 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+21:42:08.932 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+21:42:17.873 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+21:42:17.873 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+21:42:18.373 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+21:42:18.385 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+21:42:28.592 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+21:42:28.661 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+21:42:28.724 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+21:42:28.728 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+21:42:28.774 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+21:42:28.778 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+21:43:06.839 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+21:43:18.426 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+21:43:23.226 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+21:43:31.782 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+21:43:31.952 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+21:43:33.509 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+21:43:37.855 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+21:43:37.925 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+22:23:45.549 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+22:23:46.638 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+22:23:50.237 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+22:23:50.283 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+22:23:59.179 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+22:23:59.224 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+22:23:59.226 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+22:24:18.237 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+22:24:20.589 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+22:24:23.596 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+22:24:23.768 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+22:28:14.538 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+22:28:15.982 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+22:28:21.090 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+22:28:21.101 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+22:28:33.465 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+22:28:33.510 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+22:28:33.566 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+22:30:24.594 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+22:30:33.885 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+22:30:37.330 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+22:30:37.560 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+22:37:05.569 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+22:37:05.830 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+22:37:08.437 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+22:37:08.579 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+22:37:14.959 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+22:37:15.010 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+22:37:15.013 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+22:37:26.816 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+22:37:29.906 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+22:37:31.924 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+22:37:31.969 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+13:15:20.136 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+13:15:23.564 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+13:15:32.619 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+13:15:32.686 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+13:15:45.587 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+13:15:45.674 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+13:15:45.683 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+13:16:18.287 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+13:16:22.364 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+13:16:27.485 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+13:16:27.701 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+13:40:21.511 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+13:40:37.538 [main] ERROR tsetCases.AccountRegistrationTest - Test failed
+13:43:17.694 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+13:43:49.528 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+13:44:02.256 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+13:44:02.974 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****

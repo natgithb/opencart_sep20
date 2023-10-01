@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T19:09:08 IDT" name="Failed suite [opencartSuite]" finished-at="2023-09-28T19:09:36 IDT" duration-ms="27660">
+    <groups>
+      <group name="Master">
+        <method signature="LoinTest.test_login()[pri:0, instance:tsetCases.LoinTest@59505b48]" name="test_login" class="tsetCases.LoinTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoinTest.test_login()[pri:0, instance:tsetCases.LoinTest@59505b48]" name="test_login" class="tsetCases.LoinTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2023-09-28T19:09:08 IDT" name="opencartTest(failed)" finished-at="2023-09-28T19:09:36 IDT" duration-ms="27660">
+      <class name="tsetCases.LoinTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tsetCases.LoinTest@59505b48]" started-at="2023-09-28T19:09:09 IDT" name="setup" finished-at="2023-09-28T19:09:27 IDT" duration-ms="17764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_login()[pri:0, instance:tsetCases.LoinTest@59505b48]" started-at="2023-09-28T19:09:27 IDT" name="test_login" finished-at="2023-09-28T19:09:36 IDT" duration-ms="8863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tsetCases.LoinTest@59505b48]" started-at="2023-09-28T19:09:36 IDT" name="tearDown" finished-at="2023-09-28T19:09:36 IDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tsetCases.LoinTest -->
+    </test> <!-- opencartTest(failed) -->
+  </suite> <!-- Failed suite [opencartSuite] -->
+</testng-results>

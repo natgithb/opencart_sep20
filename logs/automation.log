@@ -322,3 +322,25 @@
 00:47:05.610 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
 00:47:11.486 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
 00:47:11.541 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+10:19:52.417 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+10:20:12.628 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+10:20:27.711 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+10:20:27.890 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+10:20:41.833 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+10:20:41.988 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+10:20:41.994 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+10:21:22.603 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+10:21:24.510 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+10:21:27.762 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+10:21:27.881 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
+19:05:24.551 [main] INFO  tsetCases.AccountRegistrationTest - ***  Starting TC_test_account_Registeration
+19:05:25.184 [main] INFO  tsetCases.AccountRegistrationTest - Click on myaccount link
+19:05:31.002 [main] INFO  tsetCases.AccountRegistrationTest - Click on register link
+19:05:31.010 [main] INFO  tsetCases.AccountRegistrationTest - Providing customres data
+19:05:38.937 [main] INFO  tsetCases.AccountRegistrationTest - Click on continue
+19:05:38.990 [main] INFO  tsetCases.AccountRegistrationTest - Vlaidate expected message
+19:05:38.994 [main] INFO  tsetCases.AccountRegistrationTest - ***  Finished TC_test_account_Registeration
+19:06:05.648 [main] INFO  tsetCases.LoinTest - ****  Starting TC_test_LoinTest  **** 
+19:06:12.314 [main] INFO  tsetCases.LoinTest - ****  Providing login details 
+19:06:16.209 [main] INFO  tsetCases.LoinTest - ****  Clicking on login button
+19:06:16.366 [main] INFO  tsetCases.LoinTest - **** Finished LoinTest ****
